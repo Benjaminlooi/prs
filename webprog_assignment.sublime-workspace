@@ -1,0 +1,888 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"U",
+				"UType"
+			],
+			[
+				"query",
+				"queryGet"
+			],
+			[
+				"login",
+				"loginerror"
+			],
+			[
+				"margin-",
+				"margin-right\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 3706,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 6340,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "register.php",
+			"settings":
+			{
+				"buffer_size": 8946,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "view.php",
+			"settings":
+			{
+				"buffer_size": 12195,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin.php",
+			"settings":
+			{
+				"buffer_size": 12277,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login.php",
+			"settings":
+			{
+				"buffer_size": 5302,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "register_process.php",
+			"settings":
+			{
+				"buffer_size": 774,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "edit.php",
+			"settings":
+			{
+				"buffer_size": 11252,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "edit_process.php",
+			"settings":
+			{
+				"buffer_size": 1062,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "delete_process.php",
+			"settings":
+			{
+				"buffer_size": 482,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin_process.php",
+			"settings":
+			{
+				"buffer_size": 975,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "login_process.php",
+			"settings":
+			{
+				"buffer_size": 1608,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde\t\t",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/benjamin/.bashrc",
+		"/usr/share/gnome-shell/theme/ubuntu.css",
+		"/home/benjamin/screen.sh",
+		"/opt/lampp/htdocs/ass/css/bootstrap.css",
+		"/home/benjamin/myapp/index.html",
+		"/opt/lampp/htdocs/ass/edit.php",
+		"/opt/lampp/htdocs/ass/search_process.php",
+		"/home/benjamin/Dropbox/InstaPy/comf.py",
+		"/home/benjamin/Dropbox/InstaPy/comr.py",
+		"/opt/lampp/htdocs/ass/admin2.php",
+		"/home/benjamin/InstaPy/compare.py",
+		"/opt/lampp/htdocs/ass/config.php",
+		"/opt/lampp/htdocs/ass/edit_process.php",
+		"/D/xampp/htdocs/ben/register.php",
+		"/D/xampp/htdocs/ben/logout.php",
+		"/D/xampp/htdocs/ben/config.php",
+		"/D/xampp/htdocs/ben/js/combodate.js",
+		"/D/xampp/htdocs/ben/css/all.css",
+		"/D/Downloads/AYYWARE FIXED_mpgh.net/.gitignore",
+		"/D/xampp/htdocs/ben/signinerror.php",
+		"/D/xampp/htdocs/ben/test.html",
+		"/D/xampp/htdocs/ben/login.php",
+		"/D/xampp/htdocs/ben/login2.php",
+		"/D/xampp/htdocs/ben/login3.php",
+		"/D/xampp/htdocs/ben/home.html",
+		"/D/xampp/htdocs/ben/index.html",
+		"/D/xampp/htdocs/ben/home.php",
+		"/D/Downloads/Lab8-DC96080/Lab8-DC96080/item_delete.php",
+		"/D/Downloads/Lab8-DC96080/Lab8-DC96080/item_deleteview.php",
+		"/D/Downloads/Lab8-DC96080/Lab8-DC96080/item_insert.html",
+		"/D/Downloads/Lab8-DC96080/Lab8-DC96080/item_insertDB.php",
+		"/D/Downloads/Lab8-DC96080/Lab8-DC96080/item_view.php",
+		"/D/Downloads/Lab8-DC96080/Lab8-DC96080/login.html",
+		"/D/Downloads/Lab8-DC96080/Lab8-DC96080/loginProcess.php",
+		"/D/Downloads/Lab8-DC96080/Lab8-DC96080/logout.php",
+		"/D/Downloads/Lab8-DC96080/Lab8-DC96080/menu.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/xampp/htdocs/ben/js/moment.js",
+		"/D/xampp/htdocs/test.css",
+		"/D/xampp/htdocs/testtest.html",
+		"/D/Dropbox/website assignment/index.html",
+		"/D/Dropbox/website assignment/page2.html",
+		"/E/Incase if you forger, we are all humans we all forget/fdfdf.py",
+		"/E/Incase if you forger, we are all humans we all forget/getpip.py",
+		"/D/Downloads/Sample Code for Simple System-20181220/index.php",
+		"/D/Downloads/Sample Code for Simple System-20181220/login.php",
+		"/D/Downloads/Sample Code for Simple System-20181220/add.php",
+		"/D/Downloads/Sample Code for Simple System-20181220/menu.php",
+		"/D/Downloads/Sample Code for Simple System-20181220/delete.php",
+		"/D/Downloads/Sample Code for Simple System-20181220/logout.php",
+		"/D/Downloads/Sample Code for Simple System-20181220/edit.php",
+		"/D/xampp/htdocs/ben/js/jquery-3.3.1.min.js",
+		"/D/xampp/htdocs/ben/css/style.css",
+		"/D/xampp/htdocs/ben/view.php",
+		"/D/Downloads/bootstrap-navbar-menu/bootstrap-navbar-menu/layout-3/index.html",
+		"/D/Downloads/bootstrap-navbar-menu/bootstrap-navbar-menu/layout-3/assets/css/style.css",
+		"/D/Downloads/bootstrap-navbar-menu/bootstrap-navbar-menu/layout-3/assets/bootstrap/css/bootstrap.css",
+		"/C/Users/Ben/source/repos/Lab2_1/Lab2_1/Source1.cpp",
+		"/D/Downloads/bootstrap-navbar-menu/bootstrap-navbar-menu/index.html",
+		"/C/Program Files (x86)/SecurityXploded/Hash Generator/Readme.html",
+		"/D/Downloads/HashGenerator/HashGenerator/Readme.html",
+		"/D/Downloads/bootstrap-navbar-menu/bootstrap-navbar-menu/layout-4/assets/css/style.css",
+		"/D/Downloads/bootstrap-navbar-menu/bootstrap-navbar-menu/layout-4/index.html",
+		"/D/Downloads/bootstrap-navbar-menu/bootstrap-navbar-menu/layout-4/assets/bootstrap/css/bootstrap.css",
+		"/D/xampp/htdocs/index.php",
+		"/C/Users/Ben/Desktop/cv must have.txt",
+		"/C/Users/Ben/Desktop/1.txt",
+		"/C/Users/Ben/Desktop/2.txt",
+		"/C/Users/Ben/Desktop/Source.cpp"
+	],
+	"find":
+	{
+		"height": 39.8803589232
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"carouse",
+			"imgBanner",
+			"searc",
+			"your pet",
+			"<a class=\"dropdown-item\" href=\"./e\">Edit Profile</a>\n              <a class=\"dropdown-item\" href=\"#\">xx</a>",
+			"<a class=\"dropdown-item\" href=\"./e\">Edit Profile</a>\n            <a class=\"dropdown-item\" href=\"#\">xx</a>",
+			"<a class=\"dropdown-item\" href=\"./e\">Edit Profile</a>\n              <a class=\"dropdown-item\" href=\"#\">xx</a>",
+			"<a class=\"dropdown-item\" href=\"./e\">Edit Profile</a>\n            <a class=\"dropdown-item\" href=\"#\">xx</a>",
+			"\\<div|\\</div",
+			"<div|</div",
+			"?>\n",
+			"/input",
+			"search bar",
+			"search",
+			"{|}",
+			".container",
+			".col",
+			"col",
+			"container",
+			"ssssss",
+			".nav",
+			".p",
+			"{|}",
+			"{",
+			"\\$_SESSION\\[\\Wstatus\\W]",
+			"\\$_SESSION\\[\\WprevPage\\W]",
+			"\\$_SESSION\\[\\Wstatus\\W]",
+			"$_SESSION[\\status\\]",
+			"$_SESSION[^status^]",
+			"$_SESSION['status']",
+			"$_SESSION[\"status\"]",
+			"coree",
+			"correct",
+			"invalid",
+			"USER",
+			"PET",
+			"pet",
+			"navbar-nav",
+			"navbar nav",
+			"hidden",
+			"<form",
+			"form",
+			"name",
+			"day",
+			"petinsert",
+			"$_SESSION[\"userID\"]",
+			"/examples/actions/confirmation.php",
+			"was",
+			"team-",
+			"home.php",
+			"age",
+			"carousel-cap",
+			"lead",
+			"margin-bottom: -",
+			"{\n",
+			"anim",
+			"text-underline",
+			"row",
+			"container",
+			"team-sect",
+			"text-underline-pri",
+			"head-box",
+			"container",
+			"customInpu",
+			"display-4",
+			"intro-bg",
+			"input-group-",
+			"dropdown-item",
+			"navbar-header",
+			"<a",
+			"            <",
+			"dropdown",
+			"class",
+			"toggle",
+			"form-control",
+			"border-color",
+			"navbar-no",
+			"navbar-inv",
+			"form-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a class=\"dropdown-item\" href=\"register.php\">Register New Pet</a>\n            <a class=\"dropdown-item\" href=\"view.php\">Your Pets</a>",
+			"$_SESSION['prevPage']",
+			"pet",
+			"./login_process.php",
+			"index.php"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1888,
+								1888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1232.30309073,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4507,
+								4507
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 376.869391825,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "register.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11103,
+								11103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4590.22931206,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6723,
+								6723
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 190.428713858,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1630.10967099,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "register_process.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "edit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1935.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "edit_process.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "delete_process.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "admin_process.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								148,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "login_process.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								879,
+								879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 44.8654037886,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.925224327
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.0260416666667,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webprog_assignment.sublime-project",
+	"replace":
+	{
+		"height": 45.8624127617
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

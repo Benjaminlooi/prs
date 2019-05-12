@@ -1,0 +1,237 @@
+
+
+/* NAVBAR
+-------------------------------------------- */
+.navbar{
+  background:#fff;
+  border-bottom:1px solid #dfe3e8;
+  border-radius:0;
+}
+
+.navbar .navbar-brand b{
+  font-weight: 400;
+  color: #29c68c;
+}
+
+.navbar .dropdown-menu{
+  border-radius: 1px;
+  border-color: #e5e5e5;
+  box-shadow: 0 2px 8px rgba(0,0,0,.05);
+}
+
+.navbar .custom-dropdown-item {
+  display: block;
+  width: 100%;
+  padding: 0.25rem 1.5rem;
+  clear: both;
+  font-weight: 400;
+  color: #212529;
+  text-align: inherit;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+}
+
+.navbar .login-form .input-group {
+  margin-right: 4px;
+  float: left;
+}
+
+.navbar .login-form .form-control {
+  max-width: 200px;
+  border-radius: 0 2px 2px 0;
+} 
+
+.loginInput{
+  width: 180px;
+}
+
+.userMenu{
+	right: 0;
+	left: auto;
+}
+
+.customLabel{
+	margin-right: -15px;
+	margin-left: -15px;
+}
+
+.customForm{
+  margin-bottom: 14px;
+}
+.customInputColor{
+	display: block;
+	border: 1px solid #ced4da;
+	border-radius: 0.25rem;
+	transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.customInputColor:hover {
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+input[type="color"] {
+  -webkit-appearance: none;
+  border: none;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+}
+
+input[type="color"]::-webkit-color-swatch-wrapper {
+	padding: 0;
+}
+input[type="color"]::-webkit-color-swatch {
+	border: none;
+}
+
+.customAlignMiddle{
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/*Carousel
+-----------------------------*/
+.overlay { 
+  color:#fff;
+  position:absolute;
+  z-index:12;
+  top:50%;
+  left:0;
+  width:100%;
+  text-align:center;
+}
+
+.imgBanner{
+  background-image: url("../img/dogbanner.jpg");
+  background-size: cover;
+  background-repeat: no-repeats;
+  height: 600px;
+}
+
+.intro .carousel-item::before{
+  content:"";
+  background:rgba(0,0,0,0.6);
+  position: absolute;
+  width:100%;
+  height: 100vh;
+}
+
+.intro .carousel-caption{
+  top:45%;
+}
+
+/*Register FORM
+-------------------------------------*/
+.register-top-content{
+  padding: 105px 0 75px 0;
+  height: 100%;
+}
+
+/*View Pet's TABLE
+-----------------------------------------*/
+.view-top-content{
+  padding: 95px 0 100px 0;
+  height: 100%;
+}
+
+.custom-alert{
+  margin-bottom: 0;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.view-container{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.admin-view-container{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.view-custom-button{
+  padding: 0 3px;
+}
+
+.empty-warning{
+  margin-bottom: 0;
+}
+
+/*Team Members
+---------------------------------------*/
+.team-section{
+  float: left;
+  width: 100%;
+  position: relative;
+  z-index: 1;
+  background-color: #fff;
+}
+
+.text-underline-primary:before{
+  content:"";
+  position: absolute;
+  width:50px;
+  height: 4px;
+  left:50%;
+  margin-left:-25px;
+  background:#35CBDF;
+  bottom: -10px;
+  border-radius: 10px;
+}
+
+h3.customH3{
+  margin-bottom: 0;
+}
+
+/*FOOTER
+-------------------------------*/
+footer {
+  padding-top: 52rem;
+  padding-bottom: 2rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+/*SIGNIN AGAIN
+------------------------*/
+.signin-form{
+  padding-top: 150px;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
