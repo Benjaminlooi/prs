@@ -169,6 +169,10 @@ $_SESSION['prevPage'] = "index";
           <a href="#" class="text-light">Back to top</a>
         </p>
         <p>PRS is &copy; The 3 wise man</p>
+        <p>User accounts: (username:password)</p>
+        <p>admin:321</p>
+        <p>ben:123</p>
+        <p>user:123</p>
       </div>
     </footer>
   </section>
